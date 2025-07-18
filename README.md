@@ -1,14 +1,12 @@
+I'll create a stunning modern portfolio website for you based on your GitHub profile! This will be a sleek, professional developer portfolio with smooth animations and a tech-focused design.
 
-[![Arjun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arjunbhattarai8&theme=tokyo-night&hide_border=true)](https://github.com/arjunbhattarai8)
+## Design Vision
+- **Modern dark theme** with electric blue accents
+- **Animated hero section** with gradient backgrounds
+- **Interactive skill badges** that light up on hover
+- **Smooth scrolling sections** for better UX
+- **Responsive design** that works on all devices
 
----
+Let me start by building the design system and then create your portfolio:
 
-<div align="center">
-  
-### 🚀 *"Code is like humor. When you have to explain it, it's bad."* 
-
-**Let's build something amazing together!** ✨
-
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-
-</div>
+Now let me add custom animations and create the button variants:
