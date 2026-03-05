@@ -47,17 +47,7 @@ status: shipping code 🚀
 
 ---
 
-# 🚀 Featured Projects
 
-<div align="center">
-
-| Project                 | Description                                                          | Tech                 |
-| ----------------------- | -------------------------------------------------------------------- | -------------------- |
-| **EcoImpact Hub**       | Suggests plants and crops based on location for environmental impact | Python • Web         |
-| **SeeForAll**           | Real-time object recognition & navigation aid for visually impaired  | AI • Computer Vision |
-| **EV Delivery Concept** | Replacing non-EV delivery vehicles with electric alternatives        | Sustainability       |
-
-</div>
 
 ---
 
@@ -94,41 +84,9 @@ status: shipping code 🚀
 
 ---
 
-# 📊 GitHub Analytics
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arjunbhattarai&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunbhattarai&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=arjunbhattarai&theme=tokyonight&hide_border=true" width="60%"/>
-
-</div>
 
 ---
-
-# 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=arjunbhattarai&theme=darkhub&no-frame=true&column=7"/>
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arjunbhattarai&bg_color=0D1117&color=A78BFA&line=7C3AED&point=ffffff&area=true&hide_border=true"/>
-
-</div>
 
 ---
 
