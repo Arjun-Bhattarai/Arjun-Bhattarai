@@ -27,7 +27,7 @@
 name: Arjun Bhattarai
 location: Nepal 🇳🇵
 education: BEIT Student
-focus: Real-time web systems & AI projects
+focus: Real-time web systems 
 website: arjunbhattarai8.com.np
 email: arjunbhattarai860@gmail.com
 status: shipping code 🚀
