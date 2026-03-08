@@ -25,7 +25,7 @@
 
 ```yaml
 name: Arjun Bhattarai
-location: Nepal 🇳🇵
+location: Nepal
 education: BEIT Student
 focus: Real-time web systems 
 website: arjunbhattarai8.com.np
