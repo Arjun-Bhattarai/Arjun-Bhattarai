@@ -103,11 +103,11 @@ status: shipping code 🚀
 
 ---
 
-# 📈 Contribution Graph
+# 📊 Metrics
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arjunbhattarai&theme=tokyo-night&bg_color=0f0c29&color=A78BFA&line=7C3AED&point=ffffff&area=true&hide_border=true)
+![Metrics](https://metrics.lecoq.io/arjunbhattarai?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FKathmandu&config.style=default&config.twemoji=false&config.gemoji=true&config.octicon=false&config.display=regular&config.animations=true&config.padding=0&config.template=classic&config.output=svg)
 
 </div>
 
