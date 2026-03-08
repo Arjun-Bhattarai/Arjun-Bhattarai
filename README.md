@@ -103,13 +103,11 @@ status: shipping code 🚀
 
 ---
 
-# 🐍 Contribution Snake
+# 📈 Contribution Graph
 
 <div align="center">
 
-<picture>
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
-</picture>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arjunbhattarai&theme=tokyo-night&bg_color=0f0c29&color=A78BFA&line=7C3AED&point=ffffff&area=true&hide_border=true)
 
 </div>
 
