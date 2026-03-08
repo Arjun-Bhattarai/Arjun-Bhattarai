@@ -101,17 +101,6 @@ status: shipping code 🚀
 
 </div>
 
----
-
-# 📊 Metrics
-
-<div align="center">
-
-![Metrics](https://metrics.lecoq.io/arjunbhattarai?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FKathmandu&config.style=default&config.twemoji=false&config.gemoji=true&config.octicon=false&config.display=regular&config.animations=true&config.padding=0&config.template=classic&config.output=svg)
-
-</div>
-
----
 
 # 👀 Profile Stats
 
