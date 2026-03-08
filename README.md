@@ -33,7 +33,7 @@ email: arjunbhattarai860@gmail.com
 status: shipping code 🚀
 ```
 
-### What I'm Doing
+### What I'm Doing?
 
 * 🔭 Building **real-time web applications**
 * 🤖 Experimenting with **AI-powered systems**
