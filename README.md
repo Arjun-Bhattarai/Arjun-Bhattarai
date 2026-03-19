@@ -1,5 +1,4 @@
 
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Arjun%20Bhattarai&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Builder%20%7C%20Automator&descAlignY=65&descSize=18&animation=fadeIn" width="100%"/>
@@ -12,7 +11,7 @@
 
 </div>
 
----
+
 
 # 🧑‍💻 Developer Profile
 
