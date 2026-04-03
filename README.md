@@ -35,8 +35,7 @@ status: shipping code 🚀
 * 🚀 Preparing **competitive hackathon projects**
 * 🌱 Learning every single day
 
-> ⚡ *Efficiency is just laziness optimized with code.*
-
+⚡ Lazy minds don’t fail—they optimize until everything else does.
 <br clear="right"/>
 
 ---
@@ -112,7 +111,6 @@ status: shipping code 🚀
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Let's%20Build%20Something%20Legendary&fontSize=20&fontColor=ffffff&animation=twinkling" width="100%"/>
 
 </div>
-
 <!-- 
 Crafted with obsession.
 Rendered with code.
