@@ -20,6 +20,11 @@ website: arjunbhattarai8.com.np
 email: arjunbhattarai860@gmail.com
 status: shipping code 🚀
 ```
+<p align="center">
+  <a href="Arjun-Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Resume-Download-blue?style=for-the-badge"/>
+  </a>
+</p>
 
 ### What I'm Doing?
 
