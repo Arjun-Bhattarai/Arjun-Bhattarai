@@ -11,12 +11,12 @@
 # 🧑‍💻 Developer Profile
 
 
-name: Arjun Bhattarai
-location: Nepal
-education: BEIT Student
-focus: Real-time web systems 
-website: arjunbhattarai8.com.np
-email: arjunbhattarai860@gmail.com
+name: Arjun Bhattarai  <br>
+location: Nepal  <br>
+education: BEIT Student  <br>
+focus: Real-time web systems  <br>
+website: arjunbhattarai8.com.np  <br>
+email: arjunbhattarai860@gmail.com  <br>
 status: shipping code 🚀
 
 <p align="center">
