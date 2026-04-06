@@ -10,8 +10,7 @@
 
 # 🧑‍💻 Developer Profile
 
-<img align="right" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-```yaml
+
 name: Arjun Bhattarai
 location: Nepal
 education: BEIT Student
@@ -19,7 +18,7 @@ focus: Real-time web systems
 website: arjunbhattarai8.com.np
 email: arjunbhattarai860@gmail.com
 status: shipping code 🚀
-```
+
 <p align="center">
   <a href="Arjun-Resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/View%20Resume-Download-blue?style=for-the-badge"/>
