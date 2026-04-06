@@ -6,18 +6,15 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=600\&size=22\&pause=1000\&color=A78BFA\&center=true\&vCenter=true\&width=650\&lines=Hello+World%2C+I'm+Arjun+Bhattarai;Full+Stack+Web+Developer;Real-Time+Systems+Builder;AI+Project+Explorer;Automating+Everything+Possible)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Hello+World%2C+I'm+Arjun+Bhattarai;Full+Stack+Web+Developer;Real-Time+Systems+Builder;AI+Project+Explorer;Automating+Everything+Possible)](https://git.io/typing-svg)
 
 </div>
-
-
 
 # 🧑‍💻 Developer Profile
 
 <img align="right" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-
-yaml
+```yaml
 name: Arjun Bhattarai
 location: Nepal
 education: BEIT Student
