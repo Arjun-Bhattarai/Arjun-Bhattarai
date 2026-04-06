@@ -4,14 +4,19 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Arjun%20Bhattarai&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Builder%20%7C%20Automator&descAlignY=65&descSize=18&animation=fadeIn" width="100%"/>
 
 </div>
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=600\&size=22\&pause=1000\&color=A78BFA\&center=true\&vCenter=true\&width=650\&lines=Hello+World%2C+I'm+Arjun+Bhattarai;Full+Stack+Web+Developer;Real-Time+Systems+Builder;AI+Project+Explorer;Automating+Everything+Possible)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Arjun%20Bhattarai&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Builder%20%7C%20Automator&descAlignY=65&descSize=18&animation=fadeIn" width="100%"/>
 
 </div>
 
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Hello+World%2C+I'm+Arjun+Bhattarai;Full+Stack+Web+Developer;Real-Time+Systems+Builder;AI+Project+Explorer;Automating+Everything+Possible)](https://git.io/typing-svg)
+
+</div>
+
+---
 
 # 🧑‍💻 Developer Profile
 
@@ -25,7 +30,6 @@ focus: Real-time web systems
 website: arjunbhattarai8.com.np
 email: arjunbhattarai860@gmail.com
 status: shipping code 🚀
-```
 
 ### What I'm Doing?
 
