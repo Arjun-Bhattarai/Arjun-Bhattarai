@@ -10,13 +10,13 @@
 
 # 🧑‍💻 Developer Profile
 
-- **name:** Arjun Bhattarai  
-- **location:** Nepal  
-- **education:** BEIT Student  
-- **focus:** Real-time web systems  
-- **website:** arjunbhattarai8.com.np  
-- **email:** arjunbhattarai860@gmail.com  
-- **status:** shipping code 🚀
+- **Name:** Arjun Bhattarai  
+- **Location:** Nepal  
+- **Education:** BEIT Student  
+- **Focus:** Real-time web systems  
+- **Febsite:** arjunbhattarai8.com.np  
+- **Email:** arjunbhattarai860@gmail.com  
+- **Status:** shipping code 🚀
 
 <p align="center">
   <a href="Arjun-Resume.pdf" target="_blank">
