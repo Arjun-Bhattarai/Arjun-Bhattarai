@@ -91,7 +91,6 @@
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=arjunbhattarai&style=for-the-badge&color=7C3AED)
-![Followers](https://img.shields.io/github/followers/arjunbhattarai?style=for-the-badge)
 
 </div>
 
