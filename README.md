@@ -19,7 +19,8 @@
 - **Status:** shipping code 🚀
 
 <p align="center">
-  <a href="Arjun-Resume.pdf" target="_blank">
+  <a href="Arjun Bhattarai-cv.pdf
+" target="_blank">
     <img src="https://img.shields.io/badge/View%20Resume-Download-blue?style=for-the-badge"/>
   </a>
 </p>
