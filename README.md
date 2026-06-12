@@ -31,7 +31,7 @@
 * 🤖 Experimenting with **AI-powered systems**
 * ⚡ Automating repetitive workflows
 * 🚀 Preparing **competitive hackathon projects**
-* 🌱 Learning every single day
+* 🌱 Learning every single day!
 
 ⚡ Lazy minds don't fail—they optimize until everything else does.
 
