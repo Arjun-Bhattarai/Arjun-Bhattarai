@@ -42,42 +42,7 @@
 
 ---
 
-# 🚀 Projects
-
-### 🦾 [LLM From Scratch](https://github.com/arjunbhattarai/llm-from-scratch-pytorch)
-> GPT-style Large Language Model built entirely from scratch in PyTorch
-
-- Implemented Transformer architecture from first principles — tokenization, multi-head attention, causal masking, LayerNorm, GELU, FFN, residual connections
-- Loaded pretrained GPT-2 weights across all 4 variants (124M → 1.5B parameters)
-- Fine-tuned for SMS spam classification — **97.5% validation accuracy**
-- Built full instruction fine-tuning (SFT) pipeline with custom collate function and `ignore_index` masking
-- Automated response evaluation using local Ollama LLM-as-judge pipeline
-
-`PyTorch` `Python` `tiktoken` `NumPy` `Matplotlib` `Ollama`
-
----
-
-### 🛡️ [NetRecon](https://github.com/arjunbhattarai/NetRecon)
-> Python-based network reconnaissance tool built for Blue Team cybersecurity
-
-- Port scanning via Nmap + socket with banner grabbing
-- CVE matching using NVD API 2.0 with CVSS severity scoring
-- Threat intelligence integration — GreyNoise & AbuseIPDB
-- REST API backend built with FastAPI
-- Dark-themed frontend dashboard for hackathon demos
-
-`Python` `FastAPI` `Nmap` `NVD API` `GreyNoise` `AbuseIPDB`
-
----
-
-### 🧠 [Reasoning LLMs](https://github.com/arjunbhattarai/Reasoning-LLMs) *(In Progress)*
-> Training LLMs to reason step-by-step from scratch using PyTorch
-
-Built on top of the LLM From Scratch foundation — extending into RL-based reasoning training.
-
-`PyTorch` `RLHF` `Chain-of-Thought` `Python`
-
----
+#
 
 # ⚔️ Tech Arsenal
 
