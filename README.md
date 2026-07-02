@@ -15,7 +15,7 @@
 - **Name:** Arjun Bhattarai
 - **Location:** Nepal
 - **Education:** BEIT Student
-- **Focus:** AI/ML Engineering · Real-time Web Systems · Cybersecurity
+- **Focus:** AI/ML · Real-time Web Systems · Cybersecurity
 - **Website:** arjunbhattarai8.com.np
 - **Email:** arjunbhattarai860@gmail.com
 - **Status:** shipping code 🚀
