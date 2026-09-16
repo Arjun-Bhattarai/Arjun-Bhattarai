@@ -1,117 +1,398 @@
-\<div align="center">
-\<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Arjun%20Bhattarai&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=AI%20Enthusiast%20%7C%20Building%20with%20LLMs%20%7C%20Backend%20Developer&descAlignY=65&descSize=18&animation=fadeIn](https://capsule-render.vercel.app/api?type=waving\&color=0:0f0c29,50:302b63,100:24243e\&height=220\&section=header\&text=Arjun%20Bhattarai\&fontSize=60\&fontColor=ffffff\&fontAlignY=40\&desc=AI%20Enthusiast%20%7C%20Building%20with%20LLMs%20%7C%20Backend%20Developer\&descAlignY=65\&descSize=18\&animation=fadeIn)" width="100%"/>
-\</div>
+<div align="center">
 
-\<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=250&section=header&text=Arjun%20Bhattarai&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20%20%E2%80%A2%20LLMs%20%20%E2%80%A2%20Backend%20Engineering&descAlignY=63&descSize=18&animation=fadeIn" width="100%"/>
 
-[![Typing SVG]\([https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Hello+World%2C+I](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=600\&size=22\&pause=1000\&color=A78BFA\&center=true\&vCenter=true\&width=750\&lines=Hello+World%2C+I)'m+Arjun+Bhattarai;Building+LLMs+From+Scratch+in+PyTorch;back-end+Developer;Cybersecurity;Automating+Everything+Possible)]\([https://git.io/typing-svg](https://git.io/typing-svg))
+<br>
 
-\</div>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&width=850&lines=Hello+World%2C+I'm+Arjun+Bhattarai;Exploring+LLMs+from+the+Inside+Out;Building+RAG+Systems;Engineering+AI-Powered+Backends;Learning+by+Building" />
 
-\---
+<br><br>
 
-\# 🧑‍💻 Developer Profile
+<a href="https://arjunbhattarai8.com.np">
+<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/arjun-bhattarai-70a1b7335/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:arjunbhattarai860@gmail.com">
+<img src="https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="./Arjun-Resume.pdf">
+<img src="https://img.shields.io/badge/Resume-18181B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</a>
 
-\- \*\*Name:\*\* Arjun Bhattarai
-\- \*\*Location:\*\* Nepal
-\- \*\*Education:\*\* BEIT Student
-\- \*\*Focus:\*\* AI/ML · Real-time Web Systems · Cybersecurity
-\- \*\*Website:\*\* arjunbhattarai8.com.np
-\- \*\*Email:\*\* arjunbhattarai860\@gmail.com
-\- \*\*Status:\*\* shipping code 🚀
+<br><br>
 
-\<p align="center">
-&#x20; \<a href="./Arjun-Resume.pdf" target="\_blank">
-&#x20;   \<img src="[https://img.shields.io/badge/View%20Resume-Download-blue?style=for-the-badge](https://img.shields.io/badge/View%20Resume-Download-blue?style=for-the-badge)"/>
-&#x20; \</a>
-\</p>
+<img src="https://komarev.com/ghpvc/?username=arjunbhattarai&style=flat-square&color=7C3AED&label=PROFILE+VIEWS"/>
 
-\---
+</div>
 
-\### What I'm Doing?
+---
 
-\* 🧠 Building \*\*LLMs and Reasoning models from scratch\*\* using PyTorch
-\* 🔭 Building \*\*real-time web applications\*\*
-\* 🛡️ Developing \*\*cybersecurity and network reconnaissance tools\*\*
-\* 🤖 Experimenting with \*\*AI-powered systems\*\*
-\* ⚡ Automating repetitive workflows
-\* 🚀 Preparing \*\*competitive hackathon projects\*\*
-\* 🌱 Learning every single day!
+## `> whoami`
 
-\> ⚡ Lazy minds don't fail — they optimize until everything else does.
+```text
+Arjun Bhattarai
+──────────────────────────────────────────────────────
 
-\---
+🎓  BEIT Student
+📍  Nepal
 
-\#
+🧠  AI / ML
+    ├── Large Language Models
+    ├── Transformers
+    ├── Retrieval-Augmented Generation
+    └── Deep Learning
 
-\# ⚔️ Tech Arsenal
+⚙️  Backend Engineering
+    ├── Python
+    ├── FastAPI
+    ├── PostgreSQL
+    └── Redis
 
-\<div align="center">
+🔬  Approach
+    Learn the fundamentals → Build → Experiment → Iterate
 
-\### Languages
-![Python]\([https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python))
-![C]\([https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c))
-![C++]\([https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus))
-![HTML]\([https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5))
-![CSS]\([https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3))
+🚀  Status
+    shipping code
+```
 
-\### AI / ML
-![PyTorch]\([https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch))
-![NumPy]\([https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy))
-![Pandas]\([https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas))
-![Matplotlib]\([https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge))
-![Ollama]\([https://img.shields.io/badge/Ollama-000000?style=for-the-badge](https://img.shields.io/badge/Ollama-000000?style=for-the-badge))
+I'm interested in understanding **how intelligent systems work under the hood** and building the engineering systems around them.
 
-\### Backend
-![Flask]\([https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask))
-![FastAPI]\([https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi))
-![SQLAlchemy]\([https://img.shields.io/badge/SQLAlchemy-CC2927?style=for-the-badge](https://img.shields.io/badge/SQLAlchemy-CC2927?style=for-the-badge))
+My primary interests are **AI/ML, Large Language Models, RAG, information retrieval, and backend engineering**.
 
-\### Database
-![PostgreSQL]\([https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql))
+---
 
-\### Tools
-![Docker]\([https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker))
-![Git]\([https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git))
-![GitHub]\([https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github))
-![VS Code]\([https://img.shields.io/badge/VS\_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white))
-![Postman]\([https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman))
+# 🧠 Areas of Interest
 
-\</div>
+<div align="center">
 
-\---
+<table>
+<tr>
 
-\# 🌐 Connect With Me
+<td width="50%" valign="top">
 
-\<div align="center">
+### 🤖 Large Language Models
 
-[![Gmail]\([https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)\](mailto:arjunbhattarai860@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\)]\(mailto:arjunbhattarai860@gmail.com))
-[![LinkedIn]\([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)\](https://www.linkedin.com/in/arjun-bhattarai-70a1b7335/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\)]\(https://www.linkedin.com/in/arjun-bhattarai-70a1b7335/))
-[![Portfolio]\([https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)\](https://arjunbhattarai8.com.np](https://img.shields.io/badge/Portfolio-000?style=for-the-badge\&logo=vercel\)]\(https://arjunbhattarai8.com.np))
-[![View Resume]\([https://img.shields.io/badge/View%20Resume-7C3AED?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)\](./Arjun-Resume.pdf](https://img.shields.io/badge/View%20Resume-7C3AED?style=for-the-badge\&logo=adobeacrobatreader\&logoColor=white\)]\(./Arjun-Resume.pdf))
+Understanding the architecture behind modern language models.
 
-\</div>
+<br>
 
-\---
+`Transformers`  
+`Self-Attention`  
+`Multi-Head Attention`  
+`Tokenization`  
+`BPE`  
+`Embeddings`  
+`Positional Encoding`  
+`Causal Language Modeling`  
+`Text Generation`  
+`Fine-Tuning`  
+`GPT Architectures`
 
-\# 👀 Profile Stats
+</td>
 
-\<div align="center">
+<td width="50%" valign="top">
 
-![Profile Views]\([https://komarev.com/ghpvc/?username=arjunbhattarai&style=for-the-badge&color=7C3AED](https://komarev.com/ghpvc/?username=arjunbhattarai\&style=for-the-badge\&color=7C3AED))
+### 🔎 Retrieval & RAG
 
-\</div>
+Exploring how external knowledge can be connected to language models.
 
-\---
+<br>
 
-\<div align="center">
-\<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Let](https://capsule-render.vercel.app/api?type=waving\&color=0:24243e,50:302b63,100:0f0c29\&height=120\&section=footer\&text=Let)'s%20Build%20Something%20Legendary&fontSize=20&fontColor=ffffff&animation=twinkling" width="100%"/>
-\</div>
+`RAG`  
+`Semantic Search`  
+`Embeddings`  
+`Vector Databases`  
+`ChromaDB`  
+`Query Transformation`  
+`Hybrid Retrieval`  
+`Reranking`  
+`CRAG`  
+`Self-RAG`  
+`RAPTOR`
 
-\<!--&#x20;
-Crafted with obsession.
-Rendered with code.
-Owned by Arjun Bhattarai.
-\-->
+</td>
 
-lets make this beter add very good design and add chroma db a;so and make it very good
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🧬 Machine Learning
+
+Interested in the fundamentals behind intelligent models.
+
+<br>
+
+`Deep Learning`  
+`Neural Networks`  
+`Representation Learning`  
+`Computer Vision`  
+`Transfer Learning`  
+`Feature Extraction`  
+`Model Training`  
+`Model Evaluation`  
+`PyTorch`
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚙️ Backend Engineering
+
+Building reliable backend infrastructure for AI-powered systems.
+
+<br>
+
+`Python`  
+`FastAPI`  
+`REST APIs`  
+`PostgreSQL`  
+`SQLAlchemy`  
+`SQLModel`  
+`Redis`  
+`JWT`  
+`RBAC`  
+`Docker`
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# 🔬 The AI Stack I'm Exploring
+
+<div align="center">
+
+```text
+                         ┌──────────────────┐
+                         │      AI / ML     │
+                         └────────┬─────────┘
+                                  │
+                ┌─────────────────┼─────────────────┐
+                │                 │                 │
+                ▼                 ▼                 ▼
+        ┌──────────────┐  ┌──────────────┐  ┌──────────────┐
+        │    LLMs      │  │  Deep Learn. │  │  Retrieval   │
+        └──────┬───────┘  └──────────────┘  └──────┬───────┘
+               │                                   │
+               ▼                                   ▼
+        ┌──────────────┐                    ┌──────────────┐
+        │ Transformers │                    │  Embeddings  │
+        └──────┬───────┘                    └──────┬───────┘
+               │                                   │
+               ▼                                   ▼
+        ┌──────────────┐                    ┌──────────────┐
+        │   PyTorch    │                    │  ChromaDB    │
+        └──────────────┘                    └──────┬───────┘
+                                                   │
+                                                   ▼
+                                            ┌──────────────┐
+                                            │  Reranking   │
+                                            └──────┬───────┘
+                                                   │
+                                                   ▼
+                                           ┌───────────────┐
+                                           │  RAG Systems  │
+                                           └───────┬───────┘
+                                                   │
+                                                   ▼
+                                           ┌───────────────┐
+                                           │  LLM Apps     │
+                                           └───────┬───────┘
+                                                   │
+                                                   ▼
+                                           ┌───────────────┐
+                                           │ FastAPI APIs  │
+                                           └───────────────┘
+```
+
+</div>
+
+---
+
+# ⚔️ Tech Arsenal
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp" />
+
+<br><br>
+
+### AI / ML
+
+<img src="https://skillicons.dev/icons?i=pytorch,numpy,pandas" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChromaDB-5A3FC0?style=for-the-badge&logoColor=white"/>
+
+<br><br>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,postgresql,redis" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLModel-009688?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white"/>
+
+<br><br>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,jupyter" />
+
+</div>
+
+---
+
+# 🧭 What I'm Exploring Right Now
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🧠
+
+**LLMs**
+
+Understanding  
+transformers, attention  
+and generation
+
+</td>
+
+<td align="center" width="25%">
+
+### 🔎
+
+**RAG**
+
+Improving retrieval,  
+ranking and  
+grounded generation
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚡
+
+**Backend**
+
+Designing APIs and  
+infrastructure for  
+AI systems
+
+</td>
+
+<td align="center" width="25%">
+
+### 🧪
+
+**Experimentation**
+
+Training, testing,  
+evaluating and  
+iterating
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+# 🧩 How I Learn
+
+<div align="center">
+
+```text
+       ┌──────────┐
+       │  Learn   │
+       └────┬─────┘
+            │
+            ▼
+       ┌──────────┐
+       │  Build   │
+       └────┬─────┘
+            │
+            ▼
+       ┌──────────┐
+       │Experiment│
+       └────┬─────┘
+            │
+            ▼
+       ┌──────────┐
+       │  Break   │
+       └────┬─────┘
+            │
+            ▼
+       ┌──────────┐
+       │Understand│
+       └────┬─────┘
+            │
+            ▼
+       ┌──────────┐
+       │ Improve  │
+       └────┬─────┘
+            │
+            └──────────────► Repeat
+```
+
+</div>
+
+> **I don't want to just use AI. I want to understand what makes it work.**
+
+---
+
+# 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/Arjun-Bhattarai">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/arjun-bhattarai-70a1b7335/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://arjunbhattarai8.com.np">
+<img src="https://img.shields.io/badge/Website-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+<a href="mailto:arjunbhattarai860@gmail.com">
+<img src="https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+**Always learning. Always experimenting. Always shipping.**
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=130&section=footer&animation=twinkling" width="100%"/>
+
+</div>
