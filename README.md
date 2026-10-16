@@ -35,7 +35,7 @@
 ## `> whoami`
 
 ```text
-Arjun Bhattarai
+Arjun Bhattarai:
 ──────────────────────────────────────────────────────
 
 🎓  BEIT Student
